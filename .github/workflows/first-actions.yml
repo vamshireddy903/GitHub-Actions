@@ -1,5 +1,5 @@
 name: My First GitHub Actions
-#jjjjskskskdds
+#Github actions
 on: [push]
 
 jobs:
