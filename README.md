@@ -1,4 +1,23 @@
-# GitHub-Actions-Zero-to-Hero
+# Git-hub-actions
+
+GitHub Actions is a CI/CD (Continuous Integration and Continuous Deployment) tool built into GitHub that lets you automate workflows directly in your repositories.
+
+# 🔧 Key Features of GitHub Actions:
+
+**Workflow automation**:  Automate building, testing, and deploying your code.
+
+**YAML-based configuration**: Define workflows using .github/workflows/*.yml files.
+
+**Supports containers and VMs**: Run jobs in Docker containers or Ubuntu, Windows, and macOS VMs.
+
+**Matrix builds**: Test across multiple versions of a language or environment.
+
+**Secrets management**: Store sensitive credentials like API keys securely.
+
+**Marketplace actions**: Use pre-built actions from the GitHub Marketplace.
+
+![image](https://github.com/user-attachments/assets/28fe9a8f-ff62-459a-8a1d-cc260f9fc74a)
+
 Repository to kick start your journey with GitHub Actions
 
 ## Comparing with Jenkins 
