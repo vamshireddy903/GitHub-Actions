@@ -16,7 +16,7 @@ GitHub Actions is a CI/CD (Continuous Integration and Continuous Deployment) too
 
 **Marketplace actions**: Use pre-built actions from the GitHub Marketplace.
 
-![image](https://github.com/user-attachments/assets/28fe9a8f-ff62-459a-8a1d-cc260f9fc74a)
+![image](https://github.com/user-attachments/assets/dc3ac90f-b752-4801-accc-6ecaf1eaeb18)
 
 Repository to kick start your journey with GitHub Actions
 
